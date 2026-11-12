@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "EMERGENCE",
+  title: "Daastan e Riwayaat",
   description:
-    "Recreation of the Emergence project — an art and textile portfolio exploring the boundaries between past, present and future.",
+    "Daastan e Riwayaat — an art and textile portfolio exploring the boundaries between past, present and future.",
 };
 
 export default function RootLayout({
